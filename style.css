@@ -360,16 +360,16 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 80%;
 }
 .skills-content .right .css::before{
     width: 60%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 50%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
@@ -377,7 +377,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: " my hobby";
 }
 .teams .carousel .card{
     background: #222;
@@ -683,7 +683,8 @@ footer span a:hover{
 /*icon*/
 
 .wrapper{
-    margin-left: 400px;
+    
+    margin-left: 500px;
     margin-bottom: 50px;
     margin-top: -100px;
     display: inline-flex;
